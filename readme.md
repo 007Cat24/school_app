@@ -9,7 +9,7 @@ This module provides information: Vacations, lessons etc.
 ### Planning
 This interface is provided to manage tests etc.
 
-The programming language is currently being decided, likely Python or Node.JS .
+The programming language is Node.js (JavaScript)
 This will start as a web app.
 
 ### Current APIs:
